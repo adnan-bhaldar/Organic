@@ -13,7 +13,7 @@
 
   Organica is a fully responsive organic ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/organica/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adnan-bhaldar.github.io/Organic/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
